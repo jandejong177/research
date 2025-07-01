@@ -1,6 +1,29 @@
 #+title: osint toolbox
 #+PANDOC_OPTIONS: standalone:nil
 
+** Browser Plugins
+
+*** Firefox
+
+- [[https://archive.ph/][archive.ph]]: Another webpage to archive content. Could also be used to access hidden newspaper articles.
+
+- [[https://addons.mozilla.org/en-US/firefox/addon/bulk-media-downloader/][Bulk Media Downloader]]: "Grab and download media (image, audio, and video) resources by monitoring network (like FlashGot or Flash video downloader extensions)."
+
+- [[https://addons.mozilla.org/firefox/addon/downthemall/][DownThemAll!]]: To get all media for a region or a site or multiple sites.
+
+- [[https://addons.mozilla.org/firefox/addon/fireshot/][Fireshot]]: FireShot makes full web page screenshots as PDFs. 
+
+- [[https://github.com/mozilla/multi-account-containers][mozilla/multi-account-containers]]: Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+
+- [[https://addons.mozilla.org/firefox/addon/nimbus-screenshot/][Nimbus Screen Capture: Screenshot, Edit, Annotate]]: "1) Screen capture web pages 2) Selected regions 3) Whole browser window 4) Slack upload Edit screenshots. Save images as local files or Google Drive. Tools for Annotation."
+
+- [[https://addons.mozilla.org/en-US/firefox/addon/single-file/][SingleFile]]: "Save an entire web page—including images and styling—as a single HTML file."
+
+- [[https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/][uBlock Origin]]: Best ad-blocker and privacy protection for Firefox.
+
+- [[https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/][User-Agent Switcher and Manager]]: Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.
+
+
 ** Maps/Geo
 
 - [[https://www.dualmaps.com/][Dual Maps : Google Maps, Birds Eye Imagery and Google Street View in an embeddable control]]: "Dual Maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control."
@@ -45,6 +68,11 @@
 - [[https://mattw.io/youtube-geofind/location][Location Search - Discover Geo-tagged Videos - MW Geofind]]: "Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world."
 
 - [[https://mattw.io/youtube-metadata/][MW Metadata]]: "MW Metadata normal grabs singular details about a YouTube video and its uploader, playlist and its creator, or channel."
+
+** Transportation
+
+- [[https://www.vesselfinder.com/][Ship & Container Tracking - VesselFinder]]: "Founded as a vessel tracking service provider in 2011, VesselFinder is committed to providing the very highest standards of AIS-related services."
+
 
 ** Weather
 
