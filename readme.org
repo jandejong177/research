@@ -1,15 +1,86 @@
 #+title: osint toolbox
 #+PANDOC_OPTIONS: standalone:nil
 
-* Toolbox/Websites
-** Maps/Geo
-** Social Media
-*** Reddit
-**** [[https://www.redective.com/][Redective - The Reddit Search Detective]]
+* Maps/Geo
+
+** [[https://www.dualmaps.com/][Dual Maps : Google Maps, Birds Eye Imagery and Google Street View in an embeddable control]]
+
+"Dual Maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control."
+
+** [[https://www.earthcam.com/][EarthCam - Webcam Network]]
+
+A global webcam collection.
+
+** [[https://www.f4map.com/][F4map]]
+
+"Create beautiful maps either in 3D or 2D..."
+
+** [[https://www.geonames.org/][GeoNames]]
+
+"The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge."
+
+** [[https://leafletjs.com/][Leaflet - a JavaScript library for interactive maps]]
+
+"Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps." >  use this to create interactive maps in a single .html-file.
+
+** [[https://www.mapchecking.com/][MapChecking - Crowd counting tool]]
+
+"This tool helps you estimate and fact-check the maximum number of people standing in a given area."
+
+** [[https://overpass-turbo.eu/][overpass turbo]]
+
+"Overpass turbo is a web based data mining tool for OpenStreetMap.
+
+It runs any kind of Overpass API query and shows the results on an interactive map. Using it can get technical quite quickly: beginners may find the "wizard" a good place to start."
+
+** [[https://wikimapia.org/#lang=en&lat=54.683756&lon=9.644623&z=10&m=w][Wikimapia - Let's describe the whole world!]]
+
+"A tool to describe the world." > pay attention to the categories!
+
+** [[https://satellites.pro/][World map, satellite view // Earth map online service]]
+
+Access to different sets of satellite images. Good for comparison. 
+
+* News
+
+** [[https://lenta.ru/][Lenta.ru - Новости России и мира сегодня]]
+
+A Russian news-aggregator. 
+
+** [[https://rima.media/en][RIMA — Russian Independent Media Archive]]
+
+"Independent Russian media archived from the year 2000 through the present day."
+
+* Organisation
+
+** [[https://start.me/][start.me]]
+
+"Start.me is a web-based bookmark manager that allows users to organize and access websites from a customizable homepage."
+
+* Social Media
+
+** Reddit
+*** [[https://www.redective.com/][Redective - The Reddit Search Detective]]
 
 "The Reddit Search Detective"
 
-*** Telegram
-**** [[https://tgstat.com/][Telegram channels and groups catalog — World — TGStat]]
+
+** Telegram
+*** [[https://tgstat.com/][Telegram channels and groups catalog — World — TGStat]]
 
 A tool to search telegram channels. Does not allow for general search.
+
+** Youtube
+*** [[https://mattw.io/youtube-geofind/location][Location Search - Discover Geo-tagged Videos - MW Geofind]]
+
+"Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world."
+
+*** [[https://mattw.io/youtube-metadata/][MW Metadata]]
+
+"MW Metadata normal grabs singular details about a YouTube video and its uploader, playlist and its creator, or channel."
+
+* Weather
+
+** [[https://www.windy.com/][windy.com]]
+
+"Windy is a Czech company providing interactive weather forecasting services worldwide."
