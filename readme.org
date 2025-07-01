@@ -1,13 +1,13 @@
 #+title: osint toolbox
 #+PANDOC_OPTIONS: standalone:nil
 
-* Maps/Geo
+** Maps/Geo
 
-** [[https://www.dualmaps.com/][Dual Maps : Google Maps, Birds Eye Imagery and Google Street View in an embeddable control]]
+- [[https://www.dualmaps.com/][Dual Maps : Google Maps, Birds Eye Imagery and Google Street View in an embeddable control]]
 
 "Dual Maps combine Google Maps, Birds Eye Imagery and Google Street View into one embeddable control."
 
-** [[https://www.earthcam.com/][EarthCam - Webcam Network]]
+-  [[https://www.earthcam.com/][EarthCam - Webcam Network]]
 
 A global webcam collection.
 
