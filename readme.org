@@ -23,6 +23,11 @@
 
 - [[https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/][User-Agent Switcher and Manager]]: Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.
 
+** Country-specific
+
+- [[file:China.org][China]]: Everything PRC.
+
+- [[file:Russia.org][Russia]]: Russia-specific links.
 
 ** Maps/Geo
 
@@ -43,12 +48,6 @@
 - [[https://wikimapia.org/#lang=en&lat=54.683756&lon=9.644623&z=10&m=w][Wikimapia - Let's describe the whole world!]]: "A tool to describe the world." > pay attention to the categories!
 
 - [[https://satellites.pro/][World map, satellite view // Earth map online service]]: Access to different sets of satellite images. Good for comparison. 
-
-** News
-
-- [[https://lenta.ru/][Lenta.ru - Новости России и мира сегодня]]: A Russian news-aggregator. 
-
-- [[https://rima.media/en][RIMA — Russian Independent Media Archive]]: "Independent Russian media archived from the year 2000 through the present day."
 
 ** Organisation
 
